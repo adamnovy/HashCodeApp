@@ -19,4 +19,11 @@ public class Child extends Parent{
     public String getName() {
         return super.getName();
     }
+    public String toString() {
+        return super.toString();
+    }
+    public String toString2() {
+        return super.toString();
+    }
+    
 }
